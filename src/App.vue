@@ -153,7 +153,7 @@ const bloquearBtnAdd = computed(() => {
 
 <style>
 h1 {
-  color: skyblue
+  color: yellow
 }
 .positive {
   color: green
